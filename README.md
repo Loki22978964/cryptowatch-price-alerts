@@ -15,3 +15,4 @@ pytest -v
 CWT-2: вибір валюти відображення (USD/EUR/UAH) — в роботі.
 
 Статус задачі змінюється через Smart Commits (GitHub for Atlassian).
+Задача CWT-2 — в роботі.

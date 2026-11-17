@@ -35,5 +35,5 @@ def should_trigger(alert: PriceAlert, current_price: float) -> bool:
     if not _is_number(current_price) or current_price < 0:
         raise ValueError("Ціна має бути невід'ємним числом")
     if alert.direction == "above":
-        return current_price > alert.threshold
+        return current_price >= alert.threshold
     return current_price <= alert.threshold

@@ -9,3 +9,7 @@ User story (Jira): *Як користувач, я хочу створити ці
 pip install -r requirements.txt
 pytest -v
 ```
+
+## Наступна задача
+
+CWT-2: вибір валюти відображення (USD/EUR/UAH) — в роботі.

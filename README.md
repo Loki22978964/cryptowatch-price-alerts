@@ -8,7 +8,7 @@ User story (Jira): *Як користувач, я хочу створити ці
 ```bash
 pip install -r requirements.txt
 pytest -v
-```
+``` 
 
 ## Наступна задача
 
